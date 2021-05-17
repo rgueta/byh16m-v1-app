@@ -1,0 +1,7 @@
+{
+  "name": "byh16m-v1",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
